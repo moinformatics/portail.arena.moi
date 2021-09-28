@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <nav class="nav-main">
+      <ul>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">À Propos</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">Nouvelles</a></li>
+        <li class="logo"><a class="hvr-ripple-out" href="{{ site.baseurl }}/">MOI</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/train/">S'entraîner</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/calendar/">Calendrier</a></li>
+      </ul>
+    </nav>
+
+    <div class="container content">
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer fixed-bottom">
+        <small>
+        </small>
+        <div class="ftr-links">
+          <a href="https://www.facebook.com/moroccoioi"><i class="fab fa-facebook"></i></a>
+          <a href="mailto:admin@arena.moi"><i class="fa fa-at"></i></a>
+          <a href="https://discord.gg/SghCZEnsjP"><i class="fab fa-discord"></i></a>
+        </div>
+      </footer>
+    </div>
+
+  </body>
+</html>

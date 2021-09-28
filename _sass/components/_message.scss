@@ -1,0 +1,27 @@
+/**
+  * _message.scss
+  * Show alert messages to users. You may add it to single elements like a `<p>`,
+  * or to a parent if there are multiple elements to show.
+  */
+
+.message {
+  color: $message-color;
+  background-color: $message-background-color;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.blue-button {
+  display: inline-block;
+  font-family: Whitney, "Open Sans", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 40pt;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 64px;
+  width: 250px;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+  background-color: #7289da;
+  border: 2px solid #7289da;
+  color: #fff;
+}
