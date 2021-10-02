@@ -1,7 +1,11 @@
 ---
 layout: page
-title: À Propos
+
+namespace: about
+permalink: /about
 ---
+
+<h1 class="page-title">{% t titles.about %}</h1>
 
 Les Olympiades internationales d'informatique ou IOI (International Olympiad in Informatics) sont une compétition annuelle en sciences informatiques (algorithmique) rassemblant des lycéens et collégiens du monde entier.
 

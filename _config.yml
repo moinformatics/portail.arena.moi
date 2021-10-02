@@ -1,5 +1,6 @@
 title:               Moroccan Olympiads in Informatics
 url:                 https://portail.arena.moi
+baseurl: ""
 
 markdown:            kramdown
 highlighter:         rouge
@@ -9,8 +10,6 @@ exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile
 permalink:           pretty
 paginate:            5
 paginate_path:       /blog/:num
-
-remote_theme: nicoelayda/celeste
 
 blog:
   truncated_preview: false
@@ -23,3 +22,6 @@ plugins:
   - jekyll-coffeescript
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-multiple-languages-plugin
+
+languages:          ["fr", "en", "ar"]

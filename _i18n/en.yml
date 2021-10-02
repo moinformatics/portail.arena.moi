@@ -1,0 +1,11 @@
+global:
+  tagline: English
+langs:
+  fr: Français
+  en: English
+  ar: Arabic
+titles:
+  about: About
+  schedule: Schedule
+  train: Training
+  news: News

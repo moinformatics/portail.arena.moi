@@ -1,0 +1,11 @@
+global:
+  tagline: Français
+langs:
+  fr: Français
+  en: English
+  ar: Arabic
+titles:
+  about: À Propos
+  schedule: Calendrier
+  train: S'entraîner
+  news: Nouvelles

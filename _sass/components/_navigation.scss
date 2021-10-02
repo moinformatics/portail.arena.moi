@@ -41,4 +41,29 @@
     margin: 0 1rem;
     padding: 0;
   }
+
+  li.right {
+    float: right;
+    padding: 7pt;
+  }
+
+  .sub-menu {
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    left: 0;
+    display: none;
+    z-index: 1;
+    
+    @at-root .menu-item:hover > & {
+      display: block;
+    }
+      
+    // @include mobile {
+    //   width: 100vw;
+    //   left: -2rem;
+    //   top: 50%;
+    //   transform: translateY(-50%);
+    // }
+  }
 }

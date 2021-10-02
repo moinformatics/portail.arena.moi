@@ -1,11 +1,22 @@
 ---
 layout: default
 title: Home
+
+namespace: home
+permalink: /
 ---
 <div class="page">
   
   <header>
-    <h1 class="landing-title">Olympiades Marocaines d'Informatique 2022</h1>
+    <h1 class="landing-title">
+      {% if site.lang == "en" %}
+      Moroccan Olympiads in Informatics 2022
+      {% elsif site.lang == "fr" %}
+      Olympiades Marocaines d'Informatique 2022
+      {% elsif site.lang == "ar" %}
+      الأولــمبـيـاد  المـغـربـيـة  في  المـعـلومـيـات  2022
+      {% endif %}
+    </h1>
   </header>
   
   <div class="text-center">
@@ -14,7 +25,7 @@ title: Home
 
   <div>
 
-  {% include_relative blog/_posts/moi-2022.md %}
+  {% include moi-2022.md %}
 
 </div>
 </div>

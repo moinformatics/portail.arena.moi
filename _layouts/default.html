@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" {% if site.lang == "ar" %} dir="rtl" {% endif %} >
 
   {% include head.html %}
 
   <body>
     <nav class="nav-main">
       <ul>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">À Propos</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">Nouvelles</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">{% t titles.about %}</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">{% t titles.news %}</a></li>
         <li class="logo"><a class="hvr-ripple-out" href="{{ site.baseurl }}/">MOI</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/train/">S'entraîner</a></li>
-        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/calendar/">Calendrier</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/train/">{% t titles.train %}</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/schedule/">{% t titles.schedule %}</a></li>        
       </ul>
     </nav>
 
@@ -18,10 +18,15 @@
       <main>
         {{ content }}
       </main>
-
-      <footer class="footer fixed-bottom">
+      <footer class="footer">
         <small>
+          {% for lang in site.languages %}
+            <a href="{% tl {{ page.namespace }} {{ lang }} %}">| {{lang}} </a>
+          {% endfor %} |
         </small>
+  
+        <br>
+        <br>
         <div class="ftr-links">
           <a href="https://www.facebook.com/moroccoioi"><i class="fab fa-facebook"></i></a>
           <a href="mailto:admin@arena.moi"><i class="fa fa-at"></i></a>

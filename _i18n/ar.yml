@@ -1,0 +1,11 @@
+global:
+  tagline: العربية
+langs:
+  fr: Français
+  en: English
+  ar: Arabic
+titles:
+  about: عن
+  schedule: برنامج
+  train: تدريب
+  news: أخبار
