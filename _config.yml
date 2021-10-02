@@ -1,6 +1,6 @@
 title:               Moroccan Olympiads in Informatics
 url:                 https://portail.arena.moi
-baseurl: "/portail.arena.moi"
+baseurl:             "/portail.arena.moi"
 
 markdown:            kramdown
 highlighter:         rouge
