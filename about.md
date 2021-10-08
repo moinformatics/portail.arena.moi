@@ -13,7 +13,7 @@ Chaque pays peut envoyer jusqu'à 4 candidats. Durant les cinq dernières année
 
 Enfin, les meilleurs sont récompensés : la moitié des candidats reçoit une médaille. [En savoir plus](https://www.ioinformatics.org/).
 
-Le Maroc participe à ces olympiades [depuis 2017](https://stats.ioinformatics.org/results/MAR). Chaque année, une sélection nationale sur plusieurs tours est organisée pour déterminer l'équipe qui représentera le Maroc (MOI pour *Moroccan Olympiads in Informatics*). La sélection se déroule typiquement entre les mois d'Octobre et Juin. Pour plus de détails, veuillez consultez le [calendrier](/calendar) de l'année.
+Le Maroc participe à ces olympiades [depuis 2017](https://stats.ioinformatics.org/results/MAR). Chaque année, une sélection nationale sur plusieurs tours est organisée pour déterminer l'équipe qui représentera le Maroc (MOI pour *Moroccan Olympiads in Informatics*). La sélection se déroule typiquement entre les mois d'Octobre et Juin. Pour plus de détails, veuillez consultez le [calendrier](/schedule) de l'année.
 
 ## Objectifs
 
