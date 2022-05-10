@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td>Tour Final MOI</td>
-        <td>22 Mai 2022</td>
+        <td>22 Mai 2022 à <a href="https://www.uir.ac.ma/">l'UIR</td>
     </tr>
     <tr>
         <td><a href="https://www.apio2022.org/">Olympiades d'Informatique d'Asie-Pacifique</td>
