@@ -1,14 +1,4 @@
-<table>
-    <style>
-        table th {
-            color: white;
-            background-color: #00690e;
-        }
-        table tr td:first-child {
-            padding: 10px;
-            font-weight: bold;
-        }
-    </style>
+<table class="green-header-table">
   <thead>
     <tr>
       <th>Evènement</th>

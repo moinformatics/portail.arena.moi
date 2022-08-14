@@ -1,6 +1,6 @@
 ---
 ---
-
+ 
 // Variables
 @import "utilities/variables";
 
@@ -25,3 +25,660 @@
 // Pages
 @import "pages/landing";
 @import "pages/posts";
+
+.green-header-table th {
+    color: white;
+    background-color: #00690e;
+}
+
+.green-header-table tr td:first-child {
+    padding: 10px;
+    font-weight: bold;
+}
+
+// External styles
+.ioi {
+    @font-face {
+        font-family: Electrolize;
+        src: url('fonts/Electrolize.ttf'),
+            url('fonts/Electrolize.eot');
+    }
+
+    body {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        min-width: 1080px;
+        background-color: #F2F2F2;
+    }
+
+    img {
+        border: none;
+        vertical-align: middle;
+    }
+
+    .mainpage {
+        width: 1060px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: #E2E2E2;
+        box-shadow: 0px 0px 10px 7px #E2E2E2;
+        border-radius: 15px;
+    }
+
+    .mainimage {
+        margin-right: 2px;
+        margin-bottom: 8px;
+        border-bottom-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-top-left-radius: 15px;
+        padding-bottom: 1px;
+        padding-right: 1px;
+        float: left;
+        background-color: white;
+    }
+
+    .mainheader {
+        font-size: xx-large;
+        text-align: center;
+        margin-bottom: 2px;
+        margin-left: 162px;
+        border-bottom-right-radius: 15px;
+        border-top-right-radius: 15px;
+        font-family: 'Electrolize', sans-serif;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        background-color: white;
+    }
+
+    .mainmenu a,
+    .secmenu a,
+    .countrymenu a {
+        font-family: 'Electrolize', sans-serif;
+        font-size: large;
+        padding-left: 7px;
+        padding-right: 7px;
+        vertical-align: middle;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        display: inline-block;
+    }
+
+    .mainmenu a {
+        float: left;
+    }
+
+    .secmenu a {
+        float: right;
+    }
+
+    .secmenu a:first-child {
+        border-bottom-right-radius: 15px;
+        margin-right: 15px;
+        padding-right: 10px;
+    }
+
+    .mainmenu a:last-child,
+    .countrymenu a:first-child {
+        border-bottom-right-radius: 15px;
+        padding-left: 7px;
+        padding-right: 10px;
+    }
+
+    .olympdata .countrymenu a:last-child,
+    .secmenu a:last-child {
+        border-bottom-left-radius: 15px;
+        padding-left: 10px;
+    }
+
+    .mainmenu a:link,
+    .mainmenu a:visited,
+    .secmenu a:link,
+    .secmenu a:visited,
+    .participantmenu a:link,
+    .participantmenu a:visited,
+    .countrymenu a:link,
+    .countrymenu a:visited,
+    .countryname a:link,
+    .countryname a:visited,
+    a:link .mainheader,
+    a:visited .mainheader {
+        color: black;
+        background-color: white;
+    }
+
+    .mainmenu a:hover,
+    .secmenu a:hover,
+    .participantmenu a:hover,
+    .countrymenu a:hover,
+    .countryname a:hover,
+    a:hover .mainimage,
+    a:hover .mainheader {
+        background-color: #E2E2E2;
+        color: black;
+        text-decoration: none;
+    }
+
+    .countrymenu a.selected {
+        background-color: #E2E2E2;
+    }
+
+    .countrymenu a {
+        display: block;
+        float: right;
+        height: 26px;
+        line-height: 26px;
+    }
+
+    .countryname a,
+    .countryname div {
+        display: block;
+        height: 46px;
+        float: left;
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+
+    .countryname a:first-child,
+    .countryname div:first-child {
+        padding-left: 6px;
+    }
+
+    .olympdata .countryname a:first-child,
+    .olympdata .countryname div:first-child {
+        padding-left: 10px;
+        border-top-left-radius: 15px;
+    }
+
+    .countryname a:last-child,
+    .countryname div:last-child {
+        padding-right: 10px;
+        border-top-right-radius: 15px;
+    }
+
+    .maincontent {
+        background-color: white;
+        border-radius: 15px;
+        padding: 8px;
+        clear: both;
+        font-family: 'Tahoma', 'Geneva', sans-serif;
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+
+    .delcontent {
+        background-color: white;
+        border-radius: 15px;
+        padding-left: 8px;
+        padding-top: 8px;
+        clear: both;
+        font-family: 'Tahoma', 'Geneva', sans-serif;
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+
+    .mainpage .delcontent:last-child,
+    .maincontent p:last-child,
+    .maincontent div:last-child {
+        margin-bottom: 0px;
+    }
+
+    .delcontent a:link,
+    .delcontent a:visited {
+        color: black;
+    }
+
+    .delcontent a:hover {
+        background-color: #E2E2E2;
+    }
+
+    .delcontent a img {
+        float: left;
+        border-right: 1px solid #AAAAAA;
+    }
+
+    .delcontent a div.medal {
+        height: 40px;
+        line-height: 40px;
+        margin-top: 140px;
+        text-align: right;
+        padding-right: 8px;
+        font-weight: bold;
+        font-size: 19px;
+    }
+
+    .delcontent a div.name,
+    .delcontent a div.participation {
+        float: right;
+        width: 315px;
+        text-align: right;
+    }
+
+    .delcontent a div.name {
+        padding-top: 3px;
+        padding-right: 8px;
+        margin-bottom: 4px;
+        font-size: 28px;
+    }
+
+    .delcontent a div.participation {
+        padding-right: 8px;
+        font-size: 16px;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a:link,
+    a:visited {
+        color: #0F3678;
+    }
+
+    th a:hover,
+    td a:hover,
+    .maincontent a:hover {
+        color: green;
+        text-decoration: underline;
+    }
+
+    .countryflag {
+        float: left;
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+        margin-right: 2px;
+    }
+
+    .countryname {
+        font-size: xx-large;
+        display: block;
+        background-color: white;
+        margin-bottom: 2px;
+        border-top-right-radius: 15px;
+        height: 46px;
+        line-height: 46px;
+    }
+
+    .olympdata .countryname {
+        border-top-left-radius: 15px;
+    }
+
+    .countrydata {
+        display: inline-block;
+    }
+
+    .basicname {
+        font-size: 28px;
+        clear: both;
+        background-color: white;
+        float: left;
+        padding-left: 8px;
+        padding-right: 8px;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+        font-family: 'Tahoma', 'Geneva', sans-serif;
+    }
+
+    .nocorner {
+        border-top-left-radius: 0px;
+    }
+
+    .countrymenu {
+        font-size: large;
+        height: 32px;
+        background-color: white;
+        border-bottom-right-radius: 15px;
+    }
+
+    .olympdata .countrymenu {
+        border-bottom-left-radius: 15px;
+    }
+
+    .countryinfo {
+        background-color: #E2E2E2;
+        font-family: 'Electrolize', sans-serif;
+        clear: both;
+        margin-bottom: 8px;
+        height: 80px;
+    }
+
+    .participantflag {
+        float: left;
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        margin-right: 2px;
+        margin-bottom: 8px;
+    }
+
+    .participantname {
+        font-size: 28px;
+        background-color: white;
+        margin-bottom: 2px;
+        border-top-right-radius: 15px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        padding-left: 8px;
+        padding-right: 8px;
+        text-align: right;
+    }
+
+    .alternatename {
+        padding-top: 2px;
+        font-size: 12px;
+        text-align: right;
+    }
+
+    .participantdata {
+        float: left;
+        margin-bottom: 8px;
+    }
+
+    .participantdata div:last-child {
+        border-bottom-right-radius: 15px;
+    }
+
+    .participantmenu {
+        background-color: white;
+        height: 24px;
+        margin-bottom: 2px;
+    }
+
+    .participantmenu a {
+        display: inline-block;
+        padding-left: 8px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        padding-right: 8px;
+    }
+
+    .participantmenu a img {
+        display: block;
+    }
+
+    .participantmedals div {
+        display: inline-block;
+    }
+
+    .tableimglink {
+        display: block;
+        height: 15px;
+        vertical-align: middle;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .topcoder {
+        width: 15px;
+    }
+
+    .codeforces {
+        width: 20px;
+    }
+
+    .tableimg {
+        display: block;
+        line-height: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .participantinfo {
+        background-color: #E2E2E2;
+        font-family: 'Tahoma', 'Geneva', sans-serif;
+        clear: both;
+    }
+
+    .participantinfo div:first-child .participantname {
+        border-top-left-radius: 15px;
+    }
+
+    .participantinfo div:first-child div:last-child,
+    .participantinfo div:first-child div:last-child div:first-child {
+        border-bottom-left-radius: 15px;
+    }
+
+    td.gold,
+    tr.gold,
+    .participantmedals .goldcount,
+    .delcontent a div.gold {
+        background-color: #FFEE55;
+    }
+
+    td.silver,
+    tr.silver,
+    .participantmedals .silvercount,
+    .delcontent a div.silver {
+        background-color: #CCCCCC;
+    }
+
+    td.bronze,
+    tr.bronze,
+    .participantmedals .bronzecount,
+    .participantmedals,
+    .delcontent a div.bronze {
+        background-color: #B87838;
+    }
+
+    td.hm,
+    tr.hm,
+    .delcontent a div.hm {
+        background-color: #B197FA;
+    }
+
+    td.nomedal,
+    tr.nomedal {
+        background-color: #E8F4FF;
+    }
+
+    td.resetcolour,
+    tr.resetcolour {
+        background-color: white;
+    }
+
+    .goldcount,
+    .silvercount,
+    .bronzecount {
+        width: 33.333%;
+        text-align: center;
+        font-size: xx-large;
+        height: 50px;
+        line-height: 50px;
+        min-width: 80px;
+    }
+
+    table,
+    table tr,
+    table th,
+    table td {
+        border-style: solid;
+        border-width: 1px;
+        border-collapse: collapse;
+        border-color: #AAAAAA;
+        text-align: center;
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+    table td.taskscore,
+    table th.taskscore {
+        padding-left: 2px;
+        padding-right: 2px;
+        min-width: 35px;
+    }
+
+    table {
+        border-radius: 15px;
+        background-color: white;
+    }
+
+    table td.leftalign {
+        text-align: left;
+    }
+
+    table th.numcolumn {
+        min-width: 20px;
+    }
+
+    ul {
+        margin: 0px;
+    }
+
+    h3 {
+        font-weight: normal;
+        margin-bottom: 0px;
+    }
+
+    div h3:first-child,
+    div p:first-child {
+        margin-top: 0px;
+    }
+
+    input,
+    select {
+        margin-bottom: 5px;
+    }
+
+    table select {
+        margin-bottom: 0;
+    }
+
+    .warning {
+        margin: 0px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-color: #FFA0A0;
+        border-radius: 10px;
+        padding: 3px 8px;
+        clear: both;
+        font-family: 'Tahoma', 'Geneva', sans-serif;
+        font-size: 14px;
+    }
+
+    .delegationmember {
+        width: 516px;
+        height: 180px;
+        margin-right: 8px;
+        margin-bottom: 8px;
+        border: 1px solid #AAAAAA;
+        display: inline-block;
+    }
+
+    .formtext {
+        display: inline-block;
+        width: 125px;
+    }
+
+    .notopmargin {
+        margin-top: 0px;
+    }
+
+    div.edittext img {
+        vertical-align: middle;
+        padding-right: 8px;
+    }
+
+    /* Override the .maincontent div:last-child margin */
+    .maincontent .photolist div {
+        display: inline-block;
+        border: 1px solid #AAAAAA;
+        margin: 0 4px 8px;
+    }
+
+    .photolist div span {
+        display: block;
+        text-align: center;
+    }
+
+    .contactimage {
+        display: inline-block;
+        width: 30px;
+        margin-right: 3px;
+        vertical-align: middle;
+        text-align: center;
+    }
+
+    .sorttriangle {
+        display: inline;
+        margin-left: 4px;
+        font-size: 9px;
+        vertical-align: middle;
+    }
+
+    .bonusmargin {
+        margin-bottom: 8px;
+    }
+
+    input[type=submit] {
+        margin-bottom: 0px;
+    }
+
+    table.changetable tr td input[type=submit] {
+        width: 60px;
+    }
+
+    .huuuuuge {
+        font-weight: bold;
+        text-align: center;
+        font-size: 72px;
+    }
+
+    .italic {
+        font-style: italic;
+        font-weight: normal;
+        font-size: 11px;
+    }
+
+    .squarecolumn {
+        min-width: 17px;
+    }
+
+    .data_full {
+        background-color: #AAFFAA;
+        padding: 0px;
+    }
+
+    .data_contestants {
+        background-color: #F9FF75;
+        font-size: 10px;
+        vertical-align: middle;
+        padding: 0px;
+    }
+
+    .data_incomplete {
+        background-color: #FFA6A6;
+        font-size: 10px;
+        vertical-align: middle;
+        padding: 0px;
+    }
+
+    .action_cell form,
+    form.inline_form {
+        display: inline;
+    }
+
+    form.inline_form_with_padding {
+        display: inline;
+        padding-left: 10px;
+    }
+
+    .action_cell {
+        width: 120px;
+    }
+
+    .minwidth100 {
+        min-width: 100px;
+    }
+
+    .tableRowSuperScript,
+    sup {
+        font-size: 10px;
+        vertical-align: top;
+    }
+
+    .ipfield {
+        width: 100px;
+    }
+}
