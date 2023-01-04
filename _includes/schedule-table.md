@@ -1,4 +1,9 @@
-<table class="green-header-table">
+
+<div>
+    <img src="/assets/moi_schedule.jpeg" alt="MOI 2023 Schedule">
+</div>
+
+{%- comment -%} <table class="green-header-table">
   <thead>
     <tr>
       <th>Evènement</th>
@@ -47,4 +52,4 @@
         <td>07 Août 2022 - 14 Août 2022</td>
     </tr>
   </tbody>
-</table>
+</table> {%- endcomment -%}
