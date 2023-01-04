@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Moroccan Olympiads in Informatics</title>
+ <link href="https://portail.arena.moi/ar/atom.xml" rel="self"/>
+ <link href="https://portail.arena.moi/ar"/>
+ <updated>2023-01-04T19:59:37+00:00</updated>
+ <id>https://portail.arena.moi</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>انــــطـــلاق MOI 2023</title>
+   <link href="https://portail.arena.moi/ar/2022/09/01/2023/"/>
+   <updated>2022-09-01T00:00:00+00:00</updated>
+   <id>https://portail.arena.moi/2022/09/01/2023</id>
+   <content type="html">
+
+&lt;p&gt;
+    تنطلق رسميا النسخة 2023  من الأولمبياد المغربي في المعلوميات ! هذه الأولمبياد هي مناسبة لطلاب المرحلة الثانوية لتطوير مهارات مهمة جدًا في الخوارزميات و حل المسائل والمشاركة في مسابقات وطنية وجهوية ودولية.
+  &lt;/p&gt;
+
+  &lt;p&gt;التسجيل مفتوح من 20 يوليوز إلى غاية &lt;strong style=&quot;color: red&quot;&gt;31 دجنبر 2022.&lt;/strong&gt; &lt;/p&gt;
+  
+  &lt;p&gt;
+  يمكن التسجيل في مسارين مختلفين:MOI و MOI Junior. MOI Junior  مخصص للتلاميد المبتدئين في البرمجة والخوارزميات. MOI  تعني تلاميدا دوي خبرة أكبر نسبيا وتهدف في النهاية إلى انتقاء الفريق الذي سيمثل المغرب في الأولمبياد الدولي للمعلوماتية.
+  
+  &lt;/p&gt;
+  &lt;p&gt;
+   لمزيد من التفاصيل حول شروط التسجيل، يرجى مراجعة استمارات التسجيل أسفله.
+  &lt;/p&gt;
+
+  &lt;h2 class=&quot;text-center&quot;&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/19XfRmZ_xQTvz3FDr51tHkeNaSQf1oGYv5qRSQvcLp5s/viewform&quot;&gt;Sign up for MOI 2023&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2 class=&quot;text-center&quot;&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/1_3esANUXOy1F_TirXfB7jKZd-mY1amo4A4MXVDANF2g/viewform&quot;&gt;Sign up for MOI Junior 2023&lt;/a&gt;&lt;/h2&gt;&lt;br&gt;
+
+  &lt;p&gt;
+  يجرى الدور الأول يوم &lt;strong&gt;31 دجنبر 2022&lt;/strong&gt; و يدوم لمدة 24 ساعة.  لن يتمكن مرشح غير مسجل من المشاركة في هذا الدور التأهيلي.
+
+  &lt;/p&gt;
+
+  &lt;p&gt;لأية أسئلة ، يرجى الالتحاق ب &lt;a target=&quot;_blank&quot; href=&quot;https://discord.gg/SghCZEnsjP&quot;&gt;server Discord ل MOI&lt;/a&gt;.&lt;/p&gt;
+
+
+  &lt;h1 class=&quot;text-center&quot;&gt; &lt;a href=&quot;https://discord.gg/SghCZEnsjP&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;blue-button&quot;&gt;&lt;span class=&quot;fab fa-discord&quot;&gt;&lt;/span&gt;&lt;/button&gt;&lt;/a&gt;&lt;/h1&gt;
+
+
+
+
+&lt;br&gt;
+
+&lt;div&gt;
+    &lt;img src=&quot;/assets/moi_schedule.jpeg&quot; alt=&quot;MOI 2023 Schedule&quot;&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>🇲🇦 المــغرب في الأولمبياد الدولي للمعلوماتية (IOI)</title>
+   <link href="https://portail.arena.moi/ar/2022/08/14/ioi-22/"/>
+   <updated>2022-08-14T00:00:00+00:00</updated>
+   <id>https://portail.arena.moi/2022/08/14/ioi-22</id>
+   <content type="html">&lt;div&gt;
+    &lt;p&gt;
+        
+        Le Maroc a remporté sa deuxième médaille aux olympiades internationales d'Informatique qui ont eu lieu à Yogyakarta en Indonésie lors de sa 6ème participation.
+        &lt;br&gt;
+        En effet, Ayman Riad Solh a remporté une médaille de bronze en se classant 110ème parmi 349 participants et premier au niveau arabe et africain ! 
+        &lt;br&gt;
+        L'équipe du Maroc, qui était en plus constituée de Nabil Boudra, Akram El Omrani et Soufien El Mazlouzi, a totalisé 411 points et s'est classée 62ème sur 90 pays participants, son meilleur classement à ce jour.
+        &lt;br&gt;
+        Les résultats détaillés sont disponibles sur le &lt;a href=&quot;https://stats.ioinformatics.org/results/2022&quot;&gt;site officiel des olympiades&lt;/a&gt;.
+        
+    &lt;/p&gt;
+    &lt;div class=&quot;maincontent ioi&quot;&gt;
+        &lt;table border=&quot;1&quot;&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;th rowspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/results/MAR/2022?sort=rank_asc&quot;&gt;Rank&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/results/MAR/2022?sort=contestant_asc&quot;&gt;Contestant&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/results/MAR/2022?sort=country_asc&quot;&gt;Country&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot; class=&quot;taskscore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/tasks/2022/fish&quot;&gt;F&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot; class=&quot;taskscore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/tasks/2022/prison&quot;&gt;P&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot; class=&quot;taskscore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/tasks/2022/towers&quot;&gt;T&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot; class=&quot;taskscore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/tasks/2022/circuit&quot;&gt;C&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot; class=&quot;taskscore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/tasks/2022/insects&quot;&gt;In&lt;/a&gt;&lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot; class=&quot;taskscore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/tasks/2022/islands&quot;&gt;Is&lt;/a&gt;&lt;/th&gt;
+                    &lt;th colspan=&quot;2&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/results/MAR/2022?sort=score_asc&quot;&gt;Score&lt;/a&gt;
+                        &lt;div class=&quot;sorttriangle&quot;&gt;▼&lt;/div&gt;
+                    &lt;/th&gt;
+                    &lt;th rowspan=&quot;2&quot;&gt;Award&lt;/th&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;th&gt;Abs.&lt;/th&gt;
+                    &lt;th&gt;Rel.&lt;/th&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td class=&quot;bronze&quot;&gt;110&lt;/td&gt;
+                    &lt;td class=&quot;bronze leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/people/7191&quot;&gt;Ayman Riad Solh&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;bronze leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/countries/MAR&quot;&gt;Morocco&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;bronze taskscore&quot;&gt;53&lt;/td&gt;
+                    &lt;td class=&quot;bronze taskscore&quot;&gt;36.5&lt;/td&gt;
+                    &lt;td class=&quot;bronze taskscore&quot;&gt;27&lt;/td&gt;
+                    &lt;td class=&quot;bronze taskscore&quot;&gt;34&lt;/td&gt;
+                    &lt;td class=&quot;bronze taskscore&quot;&gt;25.00&lt;/td&gt;
+                    &lt;td class=&quot;bronze taskscore&quot;&gt;55.00&lt;/td&gt;
+                    &lt;td class=&quot;bronze&quot;&gt;230.50&lt;/td&gt;
+                    &lt;td class=&quot;bronze&quot;&gt;38.42%&lt;/td&gt;
+                    &lt;td class=&quot;bronze&quot;&gt;Bronze&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;214&lt;/td&gt;
+                    &lt;td class=&quot;leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/people/7193&quot;&gt;Nabil Boudra&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/countries/MAR&quot;&gt;Morocco&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;46&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;10.0&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;15&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;22&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;10.00&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;10.00&lt;/td&gt;
+                    &lt;td&gt;113.00&lt;/td&gt;
+                    &lt;td&gt;18.83%&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;307&lt;/td&gt;
+                    &lt;td class=&quot;leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/people/7833&quot;&gt;Akram El Omrani&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/countries/MAR&quot;&gt;Morocco&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;9&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;0.0&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;11&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;2&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;10.00&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;3.50&lt;/td&gt;
+                    &lt;td&gt;35.50&lt;/td&gt;
+                    &lt;td&gt;5.92%&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;312&lt;/td&gt;
+                    &lt;td class=&quot;leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/people/7834&quot;&gt;Soufien El Mazlouzi&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;leftalign&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://stats.ioinformatics.org/countries/MAR&quot;&gt;Morocco&lt;/a&gt;&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;9&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;0.0&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;4&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;2&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;10.00&lt;/td&gt;
+                    &lt;td class=&quot;taskscore&quot;&gt;6.75&lt;/td&gt;
+                    &lt;td&gt;31.75&lt;/td&gt;
+                    &lt;td&gt;5.29%&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+        &lt;img src=&quot;/assets/ioi22.jpeg&quot; alt=&quot;Morocco IOI Team 2022&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>برنامج 2022</title>
+   <link href="https://portail.arena.moi/ar/2021/11/06/schedule-22/"/>
+   <updated>2021-11-06T00:00:00+00:00</updated>
+   <id>https://portail.arena.moi/2021/11/06/schedule-22</id>
+   <content type="html">
+&lt;div&gt;
+    &lt;img src=&quot;/assets/moi_schedule.jpeg&quot; alt=&quot;MOI 2023 Schedule&quot;&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>انــــطـــلاق MOI 2022</title>
+   <link href="https://portail.arena.moi/ar/2021/10/02/2022/"/>
+   <updated>2021-10-02T00:00:00+00:00</updated>
+   <id>https://portail.arena.moi/2021/10/02/2022</id>
+   <content type="html">
+
+&lt;p&gt;
+    تنطلق رسميا النسخة 2022  من الأولمبياد المغربي في المعلوميات ! هذه الأولمبياد هي مناسبة لطلاب المرحلة الثانوية لتطوير مهارات مهمة جدًا في الخوارزميات و حل المسائل والمشاركة في مسابقات وطنية وجهوية ودولية.
+  &lt;/p&gt;
+
+  &lt;p&gt;التسجيل مفتوح من 2 أكتوبر إلى غاية &lt;strong style=&quot;color: red&quot;&gt;5 نونبر 2021.&lt;/strong&gt; &lt;/p&gt;
+  
+  &lt;p&gt;
+  يمكن التسجيل في مسارين مختلفين:MOI و MOI Junior. MOI Junior  مخصص للتلاميد المبتدئين في البرمجة والخوارزميات. MOI  تعني تلاميدا دوي خبرة أكبر نسبيا وتهدف في النهاية إلى انتقاء الفريق الذي سيمثل المغرب في الأولمبياد الدولي للمعلوماتية.
+  
+  &lt;/p&gt;
+  &lt;p&gt;
+   لمزيد من التفاصيل حول شروط التسجيل، يرجى مراجعة استمارات التسجيل أسفله.
+  &lt;/p&gt;
+
+  &lt;h2 class=&quot;text-center&quot;&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/19XfRmZ_xQTvz3FDr51tHkeNaSQf1oGYv5qRSQvcLp5s/&quot;&gt;التسجيل في MOI 2022&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2 class=&quot;text-center&quot;&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/1_3esANUXOy1F_TirXfB7jKZd-mY1amo4A4MXVDANF2g/&quot;&gt;التسجيل في MOI Junior 2022&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;p&gt;
+  يجرى الدور الأول يوما &lt;strong&gt;6 و 7 نوفمبر&lt;/strong&gt; و يدوم لمدة 24 ساعة.  لن يتمكن مرشح غير مسجل من المشاركة في هذا الدور التأهيلي.
+
+  &lt;/p&gt;
+
+  &lt;p&gt;لأية أسئلة ، يرجى الالتحاق ب &lt;a target=&quot;_blank&quot; href=&quot;https://discord.gg/SghCZEnsjP&quot;&gt;server Discord ل MOI&lt;/a&gt;.&lt;/p&gt;
+
+
+  &lt;h1 class=&quot;text-center&quot;&gt; &lt;a href=&quot;https://discord.gg/SghCZEnsjP&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;blue-button&quot;&gt;&lt;span class=&quot;fab fa-discord&quot;&gt;&lt;/span&gt;&lt;/button&gt;&lt;/a&gt;&lt;/h1&gt;
+
+
+
+</content>
+ </entry>
+ 
+
+</feed>
